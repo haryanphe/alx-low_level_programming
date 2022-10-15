@@ -1,14 +1,12 @@
 #include <stdio.h>
 /*
- *main-use puts 
+ *main -use puts code
  *
- * Return: Always 0
+ * Return:Always 0
  */
 
 int main(void)
-
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-
 }
