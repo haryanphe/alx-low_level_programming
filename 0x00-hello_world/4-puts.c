@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- *main- use puts and not printf
+ *main-use puts 
  *
  * Return: Always 0
  */
