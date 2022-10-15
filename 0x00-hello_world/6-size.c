@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ * size of data
+ **/
 int main(void)
 
 {
