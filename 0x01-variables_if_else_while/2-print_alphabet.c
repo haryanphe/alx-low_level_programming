@@ -5,16 +5,15 @@
  */
 int main(void)
 {
-	char hc;
+	char lc;
 
 	for
-		(hc = 'a'; hc <= 'z'; hc++);
+		(lc = 'a'; lc <= 'z'; lc++)
 	{
-	putchar(hc);
+		putchar(lc);
 	}
 	{
-	putchar('\n');
+		putchar('\n');
 	}
-
 	return (0);
 }
