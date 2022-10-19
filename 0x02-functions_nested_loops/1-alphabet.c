@@ -1,18 +1,19 @@
 #include <stdio.h>
 #include "main.h"
 /**
-  * main -Entry point
+  * main - Entry point
   * function
-  *Return : 0
+  * Return: (0)
   */
 int main(void)
 {
-	for (int x = 'a'; x <= 'z'; x++)
+	int x;
 {
-	int tolower_x = 'x';
-
-	_putchar('x');
-	_putchar('\n');
+	for
+	(x = 'a' ; x < = 'z' ;, x++);
+	_putchar(x0);
 }
+	_putchar('\n');
+
 	return (0);
 }
