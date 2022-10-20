@@ -3,16 +3,15 @@
 /**
   * main - Entry point
   * function
-  * Return: (0)
+  * Return: 0
   */
 int main(void)
 {
-	int x;
-{
+	int ch;
+
 	for
-	(x = 'a' ; x < = 'z' ;, x++);
-	_putchar(x0);
-}
+	(ch = 'a';  ch <= 'z'; ch++);
+	_putchar(ch);
 	_putchar('\n');
 
 	return (0);
