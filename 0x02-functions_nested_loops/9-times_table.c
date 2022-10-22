@@ -14,17 +14,7 @@ void times_table(void)
 		for (columns = 0; columns <= 9; columns++)
 		{
 			prin_num = rows * columns;
-
-			if (prin_num < 10)
-			{
-				_putchar(prin_num + '0');
-			}
-			else
-			{
-				_putchar(((prin_num / 10) % 10) + '0');
-				_putchar((prin_num % 10) + '0');
-			}
-			if (columns != 9)
+			if (columns != 0)
 			{
 				_putchar(',');
 				if (prin_num < 10)
@@ -34,6 +24,15 @@ void times_table(void)
 				}
 				else
 					_putchar(' ');
+			}
+			if (prin_num < 10)
+			{
+				_putchar(prin_num + '0');
+			}
+			else
+			{
+				_putchar(((prin_num / 10) % 10) + '0');
+				_putchar((prin_num % 10) + '0');
 			}
 			if (columns == 9)
 				_putchar('\n');
