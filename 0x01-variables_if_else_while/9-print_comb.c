@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - print combinations of single digit numbers
- * return :0
+ * main - Entry point
+ * return: 0
 */
 int main(void)
 {
@@ -10,10 +10,10 @@ int main(void)
 	for (num = 0; num < 10; num++)
 	{
 		putchar(num);
-	}
 		putchar(',');
 	
 		putchar(' ');
+	}
 		putchar('\n');
 	return (0);
 }
