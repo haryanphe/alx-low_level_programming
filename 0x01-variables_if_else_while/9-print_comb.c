@@ -11,14 +11,14 @@ int main(void)
 	{
 		putchar(num);
 	}
-	if (num = < 10)
+	if (num < = 10)
 	{
 		putchar(',');
 	}
-	if (num = < 10)
+	if (num < = 10)
 		putchar(' ');
 
-	putchar('\n')
+	putchar('\n');
 
 	return (0);
 }
