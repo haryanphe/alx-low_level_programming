@@ -3,14 +3,14 @@
 #include <stdio.h>
 
 /**
- * main(void) - last digit of a number set
+ * main - print last digit of n
  *
  * Return: 0
  */
 
-int main(void)
+int main(int n, a)
 {
-	int n, a;
+	int n = a;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
