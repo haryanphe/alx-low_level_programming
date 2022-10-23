@@ -3,10 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - last digit of a number set
- * return: 0
- *
-*/
+ * main(void) - last digit of a number set
+ * @n: int
+ * Return: 0
+ */
+
 int main(void)
 {
 	int n, a;
