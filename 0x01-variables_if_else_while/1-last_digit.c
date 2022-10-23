@@ -8,7 +8,7 @@
  * Return: 0
  */
 
-main(int n)
+main(void)
 {
 	int n = a;
 
