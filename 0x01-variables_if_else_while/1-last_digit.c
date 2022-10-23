@@ -4,6 +4,7 @@
 
 /**
  * main(void) - last digit of a number set
+ *
  * Return: 0
  */
 
