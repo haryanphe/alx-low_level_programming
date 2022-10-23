@@ -11,5 +11,14 @@ int main(void)
 	{
 		putchar(num);
 	}
+	if (num = < 10)
+	{
+		putchar(',');
+	}
+	if (num = < 10)
+		putchar(' ');
+
+	putchar('\n')
+
 	return (0);
 }
