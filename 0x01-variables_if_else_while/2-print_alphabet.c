@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - putchar alphabet in lower case
- * return 0
+ * main - Entry point
+ * Return 0
  */
 int main(void)
 {
