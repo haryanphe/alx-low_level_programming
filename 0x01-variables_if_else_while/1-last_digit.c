@@ -3,14 +3,14 @@
 #include <stdio.h>
 
 /**
- * main - print last digit of n
+ * main - Entry point
  *
  * Return: 0
  */
 
-main(void)
+int main(void)
 {
-	int n = a;
+	int n, a;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
