@@ -1,19 +1,23 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
- * Return: 0
-*/
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int num;
 
 	for (num = 0; num < 10; num++)
 	{
-		putchar(num);
-	putchar(',');
-	putchar(' ');
-
-	putchar('\n');
+	    putchar(n);
+		if (n != 10)
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
+	putchar('\n');
+
 	return (0);
 }
