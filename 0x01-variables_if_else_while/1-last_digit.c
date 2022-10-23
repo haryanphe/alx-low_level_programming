@@ -8,7 +8,7 @@
  * Return: 0
  */
 
-int main(int n, a)
+main(int n)
 {
 	int n = a;
 
