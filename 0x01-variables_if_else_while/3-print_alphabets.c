@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints alphabet in lower and upper case
- * return : 0
+ * main - Entry point
+ * return: 0
  */
 int main(void)
 {	char vb;
