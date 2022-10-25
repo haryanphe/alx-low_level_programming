@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * puts22 - print one character of two
+ * puts2 - print one character of two
  * @str: input
  * Return: print
  */
