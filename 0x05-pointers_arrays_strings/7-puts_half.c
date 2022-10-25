@@ -9,7 +9,7 @@
 
 	while(*str != '\0')
 	{
-		lens++;
+		len++;
 		str++;
 	}
 
