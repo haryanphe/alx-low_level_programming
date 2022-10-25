@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * puts - every other character of a string
- * @str: inputs
+ * puts22 - print one character of two
+ * @str: input
  * Return: print
  */
 void puts2(char *str)
