@@ -15,4 +15,5 @@ void print_array(int *a, int n)
 		if (t != n - 1)
 			printf(", ");
 	}
-	print("\n");
+	printf("\n");
+}
